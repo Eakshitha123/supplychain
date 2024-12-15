@@ -1,0 +1,51 @@
+City,Weather Description,Temperature (°C),Humidity (%),Wind Speed (m/s)
+Mumbai,smoke,30.99,23,3.09
+Delhi,haze,20.05,28,1.54
+Bangalore,haze,24.61,62,4.12
+Kolkata,haze,23.97,41,4.12
+Chennai,haze,28.69,68,7.2
+Hyderabad,haze,27.23,34,2.57
+Ahmedabad,smoke,25.02,25,4.12
+Pune,few clouds,28.3,18,3.21
+Jaipur,haze,21.62,18,1.54
+Surat,smoke,28.99,26,3.09
+Lucknow,clear sky,22.32,16,1.15
+Kanpur,clear sky,22.21,17,2.32
+Nagpur,haze,25.01,33,2.06
+Indore,clear sky,25.1,27,2.57
+Patna,smoke,22.96,53,2.06
+Vadodara,smoke,26.98,26,2.06
+Ghaziabad,clear sky,21.38,10,1.8
+Ludhiana,haze,20.05,52,1.03
+Agra,clear sky,21.97,14,2.12
+Nashik,clear sky,27.18,17,4.29
+Faridabad,clear sky,20.14,9,1.95
+Meerut,clear sky,21.08,13,1.63
+Rajkot,clear sky,27.61,14,2.94
+Kochi,clear sky,30.99,64,3.71
+Coimbatore,haze,27.88,47,4.63
+Vijayawada,haze,28.97,45,3.09
+Mysore,few clouds,25,57,5.14
+Chandigarh,scattered clouds,21.67,13,1.91
+Gurgaon,haze,20.02,28,1.54
+Noida,clear sky,20.16,9,1.63
+Bhopal,clear sky,22.32,26,1.79
+Gwalior,clear sky,22.13,17,2.92
+Jabalpur,haze,22.47,28,3.09
+Ranchi,haze,20.06,30,3.6
+Shimla,few clouds,17.39,18,2.06
+Dehradun,clear sky,17.19,19,2.61
+Udaipur,clear sky,21.5,9,2.68
+Jammu,overcast clouds,19.96,12,1.76
+Amritsar,smoke,19.97,24,1.03
+Bhubaneswar,haze,25.12,29,3.09
+London,broken clouds,8.15,93,4.63
+Paris,overcast clouds,3.69,94,4.12
+New York,clear sky,-1.23,62,4.02
+Tokyo,few clouds,11.2,39,2.57
+Mumbai,smoke,30.99,23,3.09
+Delhi,haze,20.05,28,1.54
+Sydney,few clouds,25.19,77,6.17
+Berlin,broken clouds,4.75,94,8.23
+Rome,overcast clouds,10.3,66,4.63
+Cape Town,scattered clouds,20.98,71,9.26
