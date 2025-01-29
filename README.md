@@ -1,5 +1,6 @@
 AI-Driven Supply Chain Optimization System
-Overview
+
+Overview :
 The AI-Driven Supply Chain Optimization System leverages Large Language Models (LLMs) and machine learning techniques to enhance inventory management and predict potential supply chain disruptions. By integrating real-time data from external sources, it helps businesses proactively manage inventory levels and respond to global events such as trade restrictions and natural disasters.
 
 Features :
