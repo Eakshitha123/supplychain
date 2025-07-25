@@ -1,0 +1,86 @@
+/* Base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* background-color: #74b9ff; */
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: rgb(227, 227, 234);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container holding the form */
+.container {
+  background: #fff;
+  padding: 40px 30px;
+  width: 100%;
+  max-width: 420px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading */
+h1 {
+  text-align: center;
+  color: #2d3436;
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+
+/* Label styles */
+label {
+  display: block;
+  margin-bottom: 6px;
+  color: #636e72;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Input and select styles */
+input, select {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: 1px solid #dcdde1;
+  font-size: 14px;
+  transition: border 0.3s ease;
+}
+
+input:focus, select:focus {
+  border-color: #0984e3;
+  outline: none;
+}
+
+/* Submit button */
+button {
+  width: 100%;
+  padding: 12px;
+  background-color: #0984e3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #74b9ff;
+}
+
+/* Result message */
+#result {
+  margin-top: 25px;
+  text-align: center;
+  font-size: 16px;
+  color: #2d3436;
+  font-weight: 500;
+}
